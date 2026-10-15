@@ -36,9 +36,9 @@ This is where it gets interesting. Here's a rough comparison for a chain with ab
 
 That's tens of millions of dollars, before counting photographer travel and rooms taken out of service for a shoot. Per image, commercial photography runs about $50–$150 per finished photo, against about $0.16 for four relit looks.
 
-Of course, running a pipeline like this against your entire portfolio of selects is an inefficient spend of money, so I designed it as a drag/drop folder to be used a-la-carte. Whenever an artist wants a new look on an older/dated photo they simply drag that photo into the folder, a python script runs and generates 4 different looks for them, costs about $0.12 and takes 1 minute, instead of the artist having to waste part of an afternoon relighting manually in photoshop. In this way the client would probably only spend a few thousand across their entire portfolio during revamping of their web presence for these properties.
+Of course, running a pipeline like this against your entire portfolio of selects is an inefficient spend of money, so I designed it as a drag/drop folder to be used a-la-carte. Whenever an artist wants a new look on an older/dated photo they simply drag that photo into the folder, a python script runs and generates 4 different looks for them, costs about $0.16 and takes 1 minute, instead of the artist having to waste part of an afternoon relighting manually in photoshop. In this way the client would probably only spend a few thousand across their entire portfolio during revamping of their web presence for these properties.
 
-*Shoot pricing is from published photographer rates found online.
+*Shoot pricing is from published photographer rates found online.*
 
 ## Results
 
